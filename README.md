@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="YOUR_BANNER_URL_HERE" alt="banner" width="100%" />
-</p>
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Al-Amin</h1>
 <h3 align="center">Mobile App Developer | Kotlin | Android | Jetpack Compose</h3>
